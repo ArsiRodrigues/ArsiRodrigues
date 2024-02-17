@@ -3,7 +3,13 @@
 
 - 🔭 I’m currently working as a Sr. SysAdmin at [PrimeIT](https://www.primeit.pt/)
 
-- 💬 In this space you can find my portfolio, tools that I created and labs. They are properly identified by labels and tags. **Gitlab CI/CD, Helm, Docker, Kubernetes, Terraform**
+- 💬 Starting out as a Systems Admin, I dove into the nitty-gritty of Azure, Puppet, and wrangling Windows servers. One highlight? Leading a Puppet upgrade for 4000 French servers, using GitHub to keep things running smooth. Plus, I became the Puppet whisperer for the SE region – not bad, right?
+
+Fast forward to today, and I've taken the leap into DevOps consultancy. Think Kubernetes, Rancher RKE clusters, and troubleshooting Docker – it's been a wild ride. But it's not just about the tech; it's about making it all work seamlessly. That's why I've been tinkering with Linux servers, spinning up resources across different clouds, and setting up slick CI/CD pipelines with GitLab.
+
+And let's talk cloud migration – I've been there, done that, got the AWS advisor badge. From local Kubernetes clusters to Amazon EKS, I've been the architect behind the scenes making sure everything clicks.
+
+So yeah, it's been a journey filled with twists and turns, but I wouldn't have it any other way. As I keep riding the tech wave, my mission remains the same: to help companies level up their game with solutions that keep them ahead of the curve.**
 
 - 📫 How to reach me **arsiclaro@gmail.com**
 
